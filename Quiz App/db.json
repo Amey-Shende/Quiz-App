@@ -1,0 +1,503 @@
+{
+  "react": [
+    {
+      "question": "What is React?",
+      "options": [
+        "Framework",
+        "Library",
+        "Function",
+        "Book"
+      ],
+      "answer": "Library",
+      "id": "cfc5"
+    },
+    {
+      "question": "Who developed React?",
+      "options": [
+        "Facebook",
+        "Google",
+        "Microsoft",
+        "Twitter"
+      ],
+      "answer": "Facebook",
+      "id": "4517"
+    },
+    {
+      "question": "What does JSX stand for?",
+      "options": [
+        "JavaScript XML",
+        "JavaScript X",
+        "JavaScript Extra",
+        "Java XML"
+      ],
+      "answer": "JavaScript XML",
+      "id": "a5c7"
+    },
+    {
+      "id": "4b8d",
+      "question": "What is ES6?",
+      "answer": "EcamScript",
+      "options": [
+        "EcamScript",
+        "ExtraSpace",
+        "Etuknnd",
+        "Ettiirn"
+      ]
+    },
+    {
+      "question": "What is the primary purpose of React?",
+      "options": [
+        "Data management",
+        "User Interface",
+        "Server-side rendering",
+        "Static site generation"
+      ],
+      "answer": "User Interface",
+      "id": "0dda"
+    },
+    {
+      "question": "What hook is used to manage state in functional components?",
+      "options": [
+        "useEffect",
+        "useState",
+        "useReducer",
+        "useContext"
+      ],
+      "answer": "useState",
+      "id": "c81b"
+    },
+    {
+      "question": "Which of the following is a lifecycle method in React?",
+      "options": [
+        "render()",
+        "setState()",
+        "componentDidMount()",
+        "useEffect()"
+      ],
+      "answer": "componentDidMount()",
+      "id": "bd3a"
+    },
+    {
+      "question": "What is the virtual DOM?",
+      "options": [
+        "A representation of the real DOM",
+        "A type of database",
+        "A web server technology",
+        "None of the above"
+      ],
+      "answer": "A representation of the real DOM",
+      "id": "39a2"
+    },
+    {
+      "question": "Which command is used to create a new React app?",
+      "options": [
+        "npm create react-app ",
+        "npx create-react-app demo-app",
+        "npm install react",
+        "npx react-create-app"
+      ],
+      "answer": "npx create-react-app demo-app",
+      "id": "90cf"
+    },
+    {
+      "question": "What is a higher-order component?",
+      "options": [
+        "A component that renders another component",
+        "A component that uses hooks",
+        "A component with higher performance",
+        "None of the above"
+      ],
+      "answer": "A component that renders another component",
+      "id": "5eb9"
+    },
+    {
+      "question": "What is the purpose of keys in React?",
+      "options": [
+        "To identify components",
+        "To handle events",
+        "To style components",
+        "To optimize performance"
+      ],
+      "answer": "To identify components",
+      "id": "0141"
+    },
+    {
+      "id": "5530",
+      "question": "What is redux?",
+      "answer": "State management library",
+      "options": [
+        "State management library",
+        "UI rendering",
+        "JSON related",
+        "JS library"
+      ]
+    },
+    {
+      "id": "ad12",
+      "question": "What is js",
+      "answer": "javascript",
+      "options": [
+        "javascript",
+        "java",
+        "jakartha",
+        "jalon"
+      ]
+    },
+    {
+      "id": "ba02",
+      "question": "What is your name?",
+      "answer": "Amey",
+      "options": [
+        "Amey",
+        "Shende",
+        "Mahesh",
+        "Piyush"
+      ]
+    }
+  ],
+  "js": [
+    {
+      "question": "What is JavaScript?",
+      "options": [
+        "Framework",
+        "Library",
+        "Function",
+        "Programming Language"
+      ],
+      "answer": "Programming Language",
+      "id": "0aec"
+    },
+    {
+      "question": "What are the different data types in JavaScript?",
+      "options": [
+        "Number",
+        "String",
+        "Boolean",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "id": "6738"
+    },
+    {
+      "question": "What is hoisting in JavaScript?",
+      "options": [
+        "Variable declaration is moved to the top",
+        "Function declaration is moved to the top",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": "Both A and B",
+      "id": "a4ca"
+    },
+    {
+      "question": "What is a closure in JavaScript?",
+      "options": [
+        "A function that remembers its outer variables",
+        "A block of code that runs when called",
+        "A method to create objects",
+        "None of the above"
+      ],
+      "answer": "A function that remembers its outer variables",
+      "id": "2f1a"
+    },
+    {
+      "question": "'this' keyword in JavaScript refers to:",
+      "options": [
+        "Global object",
+        "The current object",
+        "The parent object",
+        "None of the above"
+      ],
+      "answer": "The current object",
+      "id": "d66f"
+    },
+    {
+      "question": "What is an event in JavaScript?",
+      "options": [
+        "A user interaction with the browser",
+        "A function call",
+        "A variable declaration",
+        "None of the above"
+      ],
+      "answer": "A user interaction with the browser",
+      "id": "7a04"
+    },
+    {
+      "question": "What are promises in JavaScript?",
+      "options": [
+        "Objects that represent eventual completion or failure",
+        "Functions that execute asynchronously",
+        "Variables that hold multiple values",
+        "None of the above"
+      ],
+      "answer": "Objects that represent eventual completion or failure",
+      "id": "23f8"
+    },
+    {
+      "question": "'==' vs '===': What's the difference?",
+      "options": [
+        "'==' checks value only, '===' checks value and type",
+        "'==' checks type only, '===' checks value and type",
+        "'==' is faster than '==='",
+        "'==' is used for objects only"
+      ],
+      "answer": "'==' checks value only, '===' checks value and type",
+      "id": "e05d"
+    },
+    {
+      "question": "How do you create an array in JavaScript?",
+      "options": [
+        "[ ] brackets",
+        "{ } braces",
+        "( ) parentheses",
+        "< > angle brackets"
+      ],
+      "answer": "[ ] brackets",
+      "id": "6964"
+    },
+    {
+      "question": "What does 'null' mean in JavaScript?",
+      "options": [
+        "It represents a non-existent object",
+        "It represents an undefined variable",
+        "It represents a number",
+        "None of the above"
+      ],
+      "answer": "It represents a non-existent object",
+      "id": "e065"
+    },
+    {
+      "question": "What does the 'map()' method do in JavaScript?",
+      "options": [
+        "Creates a new array with results from calling a function on every element",
+        "Filters out elements from an array based on a condition",
+        "Reverses the order of elements in an array",
+        "None of the above"
+      ],
+      "answer": "Creates a new array with results from calling a function on every element",
+      "id": "c452"
+    },
+    {
+      "question": "What are arrow functions in JavaScript?",
+      "options": [
+        "A concise way to write functions",
+        "A method to create classes",
+        "A way to declare variables",
+        "None of the above"
+      ],
+      "answer": "A concise way to write functions",
+      "id": "7401"
+    },
+    {
+      "question": "What is JSON?",
+      "options": [
+        "A data format for exchanging data",
+        "A programming language",
+        "A database format",
+        "None of the above"
+      ],
+      "answer": "A data format for exchanging data",
+      "id": "3fce"
+    },
+    {
+      "question": "What is the purpose of 'use strict' in JavaScript?",
+      "options": [
+        "It enables strict mode which helps catch common coding errors",
+        "It improves performance",
+        "It allows using undeclared variables",
+        "None of the above"
+      ],
+      "answer": "It enables strict mode which helps catch common coding errors",
+      "id": "21aa"
+    },
+    {
+      "id": "5d83",
+      "question": "What is current version of js ?",
+      "options": [
+        "ES6",
+        "ES9",
+        "ES4",
+        "ES14"
+      ],
+      "answer": "ES14"
+    }
+  ],
+  "python": [
+    {
+      "question": "What is Python?",
+      "options": [
+        "A type of snake",
+        "A programming language",
+        "A web framework",
+        "A database"
+      ],
+      "answer": "A programming language",
+      "id": "c0d8"
+    },
+    {
+      "question": "Which of the following is a valid variable name in Python?",
+      "options": [
+        "1variable",
+        "_variable",
+        "variable-name",
+        "variable name"
+      ],
+      "answer": "_variable",
+      "id": "b9d2"
+    },
+    {
+      "question": "What is the output of print(2 ** 3)?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "Error"
+      ],
+      "answer": "8",
+      "id": "57ec"
+    },
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "options": [
+        "function",
+        "def",
+        "define",
+        "func"
+      ],
+      "answer": "def",
+      "id": "a30d"
+    },
+    {
+      "question": "What is a list in Python?",
+      "options": [
+        "An immutable sequence of values",
+        "A mutable sequence of values",
+        "A collection of key-value pairs",
+        "None of the above"
+      ],
+      "answer": "A mutable sequence of values",
+      "id": "31e3"
+    },
+    {
+      "question": "'None' in Python represents:",
+      "options": [
+        "An empty list",
+        "A null value",
+        "An undefined variable",
+        "All of the above"
+      ],
+      "answer": "A null value",
+      "id": "fc47"
+    },
+    {
+      "question": "How do you create a dictionary in Python?",
+      "options": [
+        "{} braces",
+        "() parentheses",
+        "[ ] brackets",
+        "< > angle brackets"
+      ],
+      "answer": "{} braces",
+      "id": "77c5"
+    },
+    {
+      "question": "'*args' and '**kwargs' are used for:",
+      "options": [
+        "Variable-length arguments in functions",
+        "Defining classes",
+        "Creating modules",
+        "None of the above"
+      ],
+      "answer": "Variable-length arguments in functions",
+      "id": "407a"
+    },
+    {
+      "question": "What does the 'len()' function do?",
+      "options": [
+        "Returns the length of an object",
+        "Creates a new list",
+        "Converts an object to a string",
+        "None of the above"
+      ],
+      "answer": "Returns the length of an object",
+      "id": "1fbb"
+    },
+    {
+      "question": "What is a lambda function?",
+      "options": [
+        "A small anonymous function",
+        "A built-in function",
+        "A type of loop",
+        "None of the above"
+      ],
+      "answer": "A small anonymous function",
+      "id": "853f"
+    },
+    {
+      "question": "What does 'self' refer to in a class method?",
+      "options": [
+        "The instance of the class",
+        "The parent class",
+        "A global variable",
+        "None of the above"
+      ],
+      "answer": "The instance of the class",
+      "id": "642a"
+    },
+    {
+      "question": "Which module is used to work with regular expressions in Python?",
+      "options": [
+        "regex",
+        "re",
+        "regexp",
+        "regexlib"
+      ],
+      "answer": "re",
+      "id": "8296"
+    },
+    {
+      "question": "What will be the output of print(type([]))?",
+      "options": [
+        "<class 'list'>",
+        "<class 'dict'>",
+        "<class 'tuple'>",
+        "<class 'set'>"
+      ],
+      "answer": "<class 'list'>",
+      "id": "b2a0"
+    },
+    {
+      "question": "How do you start a comment in Python?",
+      "options": [
+        "# comment",
+        "// comment",
+        "/ comment",
+        "--/ comment"
+      ],
+      "answer": "# comment",
+      "id": "dd35"
+    },
+    {
+      "id": "90f1",
+      "question": "which year python was develop ?",
+      "options": [
+        "1991",
+        "1995",
+        "2000",
+        "2005"
+      ],
+      "answer": "1991"
+    },
+    {
+      "id": "0026",
+      "question": "Who is known as the father of the Python programming language?",
+      "options": [
+        "James Gosling",
+        "Guido van Rossum",
+        "Dennis Ritchie",
+        "Bjarne Stroustrup"
+      ],
+      "answer": "Guido van Rossum"
+    }
+  ]
+}
